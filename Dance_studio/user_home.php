@@ -8,6 +8,7 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="user_course.php">My courses</a>
+        <a class="nav-link active" aria-current="page" href="chat.php">Chat</a>
       </div>
     </div>
   </div>
